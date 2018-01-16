@@ -1,9 +1,0 @@
-/home/nikita/GitHub/BTree/build/CMakeFiles/rebuild_cache.dir
-/home/nikita/GitHub/BTree/build/CMakeFiles/edit_cache.dir
-/home/nikita/GitHub/BTree/build/CMakeFiles/BTree.dir
-/home/nikita/GitHub/BTree/build/CMakeFiles/Examples.dir
-/home/nikita/GitHub/BTree/build/CMakeFiles/install/local.dir
-/home/nikita/GitHub/BTree/build/CMakeFiles/install/strip.dir
-/home/nikita/GitHub/BTree/build/CMakeFiles/install.dir
-/home/nikita/GitHub/BTree/build/CMakeFiles/list_install_components.dir
-/home/nikita/GitHub/BTree/build/CMakeFiles/Tests.dir
