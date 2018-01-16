@@ -12,7 +12,7 @@ struct BNode {
     bool leaf;
     bool equal (BNode *node2)
     {
-        bool ecv;
+        bool ecv = true;
         for (int i=0; i<2*t; i++)
         {
             if ((keys[i]) != (node2->keys[i]))
@@ -20,9 +20,10 @@ struct BNode {
         }
         for (int i=0; i<2*t+1; i++)
         {
+            if (children[i] != NULL && node2->children[i] != NULL)
             ecv = children[i]->equal(node2->children[i]);
-            return ecv;
         }
+        return ecv;
     }
 };
 
