@@ -1,4 +1,4 @@
-#include "../include/BTree.h"
+#include <../source/BTree.cpp>
 #include "catch.hpp"
 
 SCENARIO("deleting element")
